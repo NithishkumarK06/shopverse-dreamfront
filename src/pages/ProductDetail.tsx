@@ -74,7 +74,7 @@ const sampleReviews = [
     rating: 5,
     date: '3 weeks ago',
     title: 'Exceptional sound quality!',
-    content: 'I've tried many earbuds in this price range, but these are truly exceptional. The noise cancellation works very well in noisy environments, and the sound clarity is outstanding. Battery life is as advertised, and they connect to my devices without any issues.',
+    content: "I've tried many earbuds in this price range, but these are truly exceptional. The noise cancellation works very well in noisy environments, and the sound clarity is outstanding. Battery life is as advertised, and they connect to my devices without any issues.",
     helpful: 42
   },
   {
@@ -84,7 +84,7 @@ const sampleReviews = [
     rating: 4,
     date: '1 month ago',
     title: 'Great earbuds with minor issues',
-    content: 'The sound quality is excellent, and the noise cancellation is quite good for the price. My only complaint is that the touch controls can be a bit sensitive sometimes, causing unintended actions. Other than that, they are comfortable to wear and the battery life is impressive.',
+    content: "The sound quality is excellent, and the noise cancellation is quite good for the price. My only complaint is that the touch controls can be a bit sensitive sometimes, causing unintended actions. Other than that, they are comfortable to wear and the battery life is impressive.",
     helpful: 28
   },
   {
@@ -94,7 +94,7 @@ const sampleReviews = [
     rating: 5,
     date: '2 months ago',
     title: 'Best purchase this year!',
-    content: 'These earbuds exceeded my expectations in every way. The sound is rich and clear, battery life is excellent, and the noise cancellation works very well even in crowded places. The connectivity is stable, and I haven't experienced any dropouts. Definitely worth the price!',
+    content: "These earbuds exceeded my expectations in every way. The sound is rich and clear, battery life is excellent, and the noise cancellation works very well even in crowded places. The connectivity is stable, and I haven't experienced any dropouts. Definitely worth the price!",
     helpful: 56
   }
 ];
